@@ -1,2 +1,2 @@
 # 400-3200reflection
-到resources自取
+在resources v1.0.0
